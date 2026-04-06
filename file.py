@@ -1,2 +1,0 @@
-print("Gunindro")
-print("BCA")
