@@ -1,2 +1,2 @@
-print("Gunindro")
+print("Lucky")
 print("BCA")
