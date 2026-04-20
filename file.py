@@ -1,0 +1,8 @@
+print("Gunindro")
+print("BCA")
+print("Austrian") 
+print("Monalisha Th")
+print("Name")
+print("Johnny")
+print("Arvind")
+print("ThomXon")
